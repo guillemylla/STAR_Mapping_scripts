@@ -1,7 +1,9 @@
-# STAR_Mapping_scripts
+# Scripts for mapping RNA-seq datasets in bulk and generate mapping stats report
 ---
+
 Guillem Ylla
 January 2019
+
 ---
 **Run_batch_STAR_cluster.sbatch** Script to map RNA-seq data to genomes in bulk using STAR on a cluster.
 
